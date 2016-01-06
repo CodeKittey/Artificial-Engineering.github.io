@@ -1,0 +1,7 @@
+
+User-agent: *
+Disallow: /download/*
+
+
+Host: artificial.engineering
+

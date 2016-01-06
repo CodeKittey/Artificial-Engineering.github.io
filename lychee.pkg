@@ -1,0 +1,49 @@
+{
+	"api": {
+		"files": {}
+	},
+	"build": {
+		"environments": {},
+		"files": {}
+	},
+	"source": {
+		"environments": {},
+		"tags": {},
+		"files": {
+			"net": {
+				"client": {
+					"Ping": [
+						"js"
+					]
+				},
+				"remote": {
+					"Ping": [
+						"js"
+					]
+				},
+				"Client": [
+					"js"
+				],
+				"Server": [
+					"js"
+				]
+			},
+			"state": {
+				"Welcome": [
+					"js"
+				],
+				"Settings": [
+					"js"
+				]
+			},
+			"Main": [
+				"js",
+				"json"
+			],
+			"index": [
+				"html",
+				"js"
+			]
+		}
+	}
+}
